@@ -1,0 +1,17 @@
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\bin\Debug\net8.0\FinalExam.DL.deps.json
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\bin\Debug\net8.0\FinalExam.DL.runtimeconfig.json
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\bin\Debug\net8.0\FinalExam.DL.dll
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\bin\Debug\net8.0\FinalExam.DL.pdb
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\bin\Debug\net8.0\FinalExam.Core.dll
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\bin\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExam.DL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExam.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExam.DL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExam.DL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExam.DL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExa.D41873DE.Up2Date
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExam.DL.dll
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\refint\FinalExam.DL.dll
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExam.DL.pdb
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\FinalExam.DL.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.DL\obj\Debug\net8.0\ref\FinalExam.DL.dll

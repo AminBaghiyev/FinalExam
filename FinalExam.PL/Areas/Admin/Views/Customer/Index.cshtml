@@ -1,0 +1,43 @@
+﻿@model IEnumerable<CustomerListItemDTO>
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+	<div class="card shadow mb-4">
+		<div class="card-header d-flex justify-content-between align-items-center py-3">
+			<h6 class="m-0 font-weight-bold text-primary">Customers</h6>
+			<a class="btn btn-primary" style="width: 160px" asp-controller="Customer" asp-action="Create">+ Add Customer</a>
+		</div>
+		<div class="card-body">
+			<div class="table-responsive">
+				<table class="table table-bordered" width="100%" cellspacing="0">
+					<thead>
+						<tr>
+							<th>#</th>
+							<th>Firstname</th>
+							<th>Lastname</th>
+							<th>Profession</th>
+							<th width="300px">Actions</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (CustomerListItemDTO customer in Model)
+						{
+						<tr>
+							<td>@customer.Id</td>
+							<td>@customer.FirstName</td>
+							<td>@customer.LastName</td>
+							<td>@customer.ProfessionTitle</td>
+							<td class="d-flex justify-content-around">
+								<a class="btn btn-primary" asp-controller="Customer" asp-action="Update" asp-route-id="@customer.Id">Update</a>
+								<a class="btn btn-danger" asp-controller="Customer" asp-action="Delete" asp-route-id="@customer.Id">Delete</a>
+								<a class="btn btn-info" asp-controller="Customer" asp-action="Details" asp-route-id="@customer.Id">Details</a>
+							</td>
+						</tr>
+						}
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /.container-fluid -->

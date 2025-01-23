@@ -1,0 +1,24 @@
+﻿@model Customer
+
+<!-- Begin Page Content -->
+<div class="container">
+	<div class="card shadow mb-4">
+		<div class="card-header py-3">
+			<h6 class="m-0 font-weight-bold text-primary">Customer Details</h6>
+		</div>
+		<div class="card-body">
+			<img style="width: 150px" src="~/uploads/customers/@Model.ProfilePhotoPath" />
+			<p>Id: @Model.Id</p>
+			<p>Firstname: @Model.FirstName</p>
+			<p>Lastname: @Model.LastName</p>
+			<p>Profession: @Model.Profession.Title</p>
+			<p>Comment: @Model.Comment</p>
+			<p>Create time: @Model.CreatedAt</p>
+			@if (Model.UpdatedAt is not null)
+			{
+				<p>Update time: @Model.UpdatedAt</p>
+			}
+		</div>
+	</div>
+</div>
+<!-- /.container-fluid -->

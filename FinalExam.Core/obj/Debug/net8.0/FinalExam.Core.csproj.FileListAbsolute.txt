@@ -1,0 +1,11 @@
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.deps.json
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.dll
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.dll
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\obj\Debug\net8.0\refint\FinalExam.Core.dll
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\II Novbe\Desktop\Exam\FinalExam\FinalExam.Core\obj\Debug\net8.0\ref\FinalExam.Core.dll

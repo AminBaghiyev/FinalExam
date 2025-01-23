@@ -1,0 +1,281 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\admin\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\css\\templatemo-softy-pinko.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-softy-pinko.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\blog-item-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-item-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\blog-item-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-item-02.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\blog-item-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-item-03.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\circle-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\circle-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\featured-item-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-item-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\fun-facts-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fun-facts-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\left-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\left-image.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\right-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\right-image.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\testimonial-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\work-process-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\work-process-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\images\\work-process-item-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\work-process-item-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\Exam\\FinalExam\\FinalExam.PL\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalExam.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinalExam.PL.props",
+      "PackagePath": "build\\FinalExam.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalExam.PL.props",
+      "PackagePath": "buildMultiTargeting\\FinalExam.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinalExam.PL.props",
+      "PackagePath": "buildTransitive\\FinalExam.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
